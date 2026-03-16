@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dimmis5&theme=neon&hide_border=true&include_all_commits=true&count_private=true)
 
 # 💻 Tech Stack:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimmis5&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimmis5&layout=compact&theme=neon&hide_border=true)
 
 # 🔥 GitHub Streak:
 ![](https://streak-stats.demolab.com?user=Dimmis5&theme=neon&hide_border=true)
