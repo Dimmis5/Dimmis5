@@ -16,6 +16,3 @@
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dimmis5&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-# 📈 Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=Dimmis5&theme=react-dark&hide_border=true)
