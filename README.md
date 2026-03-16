@@ -15,6 +15,3 @@
 # 🔥 GitHub Streak:
 ![](https://streak-stats.demolab.com?user=Dimmis5&theme=neon&hide_border=true)
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Dimmis5/Dimmis5/blob/output/github-contribution-grid-snake.svg)
