@@ -7,5 +7,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimeo-zhang/) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zhangdimeo@gmail.com) 
 
 # 💻 Tech Stack:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KoRIOz675&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimmis5&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
