@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-<br><br>👉
 <br>🗣️ FR/EN
 <br>📍 Bures-sur-Yvette, Essonne, France
 
