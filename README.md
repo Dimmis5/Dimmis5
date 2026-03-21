@@ -13,6 +13,3 @@
 
 # 🔥 GitHub Streak:
 ![](https://streak-stats.demolab.com?user=Dimmis5&theme=neon&hide_border=true)
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dimmis5&theme=radical&no-frame=true&no-bg=true&margin-w=4)
