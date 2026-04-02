@@ -23,10 +23,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimmis5&theme=neon&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimmis5&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="41%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimmis5&theme=neon&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimmis5&theme=neon&layout=compact&hide_border=true)
 
 ---
 
