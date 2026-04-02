@@ -1,12 +1,10 @@
 # Hi there, I'm Dimeo ! 👋
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=neon" alt="Quote" />
-</p>
+
 
 ### 💫 About Me
-- 🔭 I’m currently working on **[Nom de ton projet actuel]**
-- 🎓 [Étudiant en / Diplômé de] **[Ton École/Université]**
+- 🔭 I’m currently working on Invest Days
+- 🎓 Isep
 - 🌍 Based in **France (Paris Region)**
 - 🗣️ Speak **French (Native) & English (Fluent)**
 - ✉️ How to reach me: **zhangdimeo@gmail.com**
@@ -15,7 +13,6 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <!-- Remplace/Ajoute tes technos ici. Exemples : -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
